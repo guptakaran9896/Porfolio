@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Twitter Clone",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Pug, Node JS, Express JS, Firebase, MongoDb, MVVM.",
+    "image": "twitter",
+    "links": {
+      "view": "https://twitter-dtl7.onrender.com/",
+      "code": "https://github.com/guptakaran9896/Twitter-clone"
+    }
+  },
+  {
+    "name": "Chat App",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Js,Reactjs, Node JS, Express JS, Socket.io, MongoDb",
+    "image": "chatapp",
+    "links": {
+      "view": "https://chitchat-mocha.vercel.app/",
+      "code": "https://github.com/guptakaran9896/ChatApp"
+    }
+  },
+  {
+    "name": "Confluence",
+    "desc": "Official Fest Website of NIT Kurukshetra,Confluence(One of the Biggest Cultural Fest of North India)",
+    "image": "confluence",
+    "links": {
+      "view": "https://confluencenitkkr.com/",
+      "code": "https://confluencenitkkr.com/"
+    }
+  },
+  {
+    "name": "ResuNova",
+    "desc": "Website to Generate Resume By passing JSON data into it",
+    "image": "resunova",
+    "links": {
+      "view": "https://resunova.vercel.app/",
+      "code": "https://github.com/guptakaran9896/ResuNova"
+    }
+  },
+  {
+    "name": "Lyriks",
+    "desc": "Clone of Spotify .It works same as Spotify with same search features and All",
+    "image": "lyrics",
+    "links": {
+      "view": "https://resunova.vercel.app/",
+      "code": "https://github.com/guptakaran9896/ResuNova"
+    }
+  },
+  {
+    "name": "Shopkart",
+    "desc": "Full Stack E-commerce Website Built using MERN stack",
+    "image": "ecommerce",
+    "links": {
+      "view": "https://eloquent-blini-42f23f.netlify.app/",
+      "code": "https://github.com/guptakaran9896/Zevi-Assignment"
+    }
+  }
+]
